@@ -1,0 +1,11 @@
+{
+  "name": "Todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/murphyjt/Todo.git",
+    "type": "git"
+  },
+  "author": "Joshua Murphy <joshuatmurphy@gmail.com>",
+  "license": "MIT"
+}
